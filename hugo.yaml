@@ -4,12 +4,9 @@ title: Andrew's Wiki
 module:
   imports:
     - path: github.com/imfing/hextra
-<<<<<<< HEAD
-=======
   mounts:
     - source: content/content
       target: content
->>>>>>> 9110f58 (README changes + added correct content location)
 
 menu:
   main:
@@ -27,10 +24,3 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: true
-<<<<<<< HEAD
-
-  editURL:
-    enable: true
-    base: "https://github.com/atandrewlee/dreamcatcher/edit/main/content"
-=======
->>>>>>> 9110f58 (README changes + added correct content location)
